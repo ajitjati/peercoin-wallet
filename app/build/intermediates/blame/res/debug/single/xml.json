@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/xml/preference_diagnostics.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/xml/preference_diagnostics.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/xml/preference_headers.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/xml/preference_headers.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/xml/preference_about.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/xml/preference_about.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/xml/wallet_balance_widget.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/xml/wallet_balance_widget.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/xml/preference_settings.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/xml/preference_settings.xml"
+    }
+]

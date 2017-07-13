@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_credits_icon_title">Η εφαρμογή αυτή χρησιμοποιεί ένα εικονίδιο από τη \'bitboy\'</string>
+    <string name="about_credits_peercoinj_title">Αυτή η εφαρμογή χρησιμοποιεί peercoinj %s</string>
+    <string name="about_credits_zxing_title">Αυτή η εφαρμογή χρησιμοποιεί\'zxing\'</string>
+    <string name="about_license_title">Άδεια</string>
+    <string name="about_market_app_title">Σελίδα Εφαρμογών του Google Play</string>
+    <string name="about_title">Πληροφορίες</string>
+    <string name="action_show_qr">Εμφάνιση κώδικα QR</string>
+    <string name="address_book_activity_title">Κατάλαγος διευθύνσεων</string>
+    <string name="address_book_context_copy_to_clipboard_title">Αντιγραφή στο clipboard</string>
+    <string name="address_book_context_edit_title">Επεξεργασία διεύθυνσης</string>
+    <string name="address_book_context_remove_title">Αφαιρέστε τη διεύθυνση</string>
+    <string name="address_book_context_send_title">Αποστολή Peercoins στη διεύθυνση</string>
+    <string name="address_book_empty_text">δεν υπάρχουν καταχωρήσεις στον kατάλαγο διευθύνσεων</string>
+    <string name="button_add">Προσθήκη</string>
+    <string name="button_cancel">Ακύρωση</string>
+    <string name="button_delete">Διαγραφή</string>
+    <string name="button_dismiss">Ματαίωση</string>
+    <string name="button_help">Βοήθεια</string>
+    <string name="button_request_coins">Ζητήστε νομίσματα</string>
+    <string name="button_send_coins">Αποστολή νομισμάτων</string>
+    <string name="button_share">Μοιραστείτε</string>
+    <string name="edit_address_book_entry_dialog_address_label">Διεύθυνση</string>
+    <string name="edit_address_book_entry_dialog_button_edit">Αποθήκευση</string>
+    <string name="edit_address_book_entry_dialog_label_label">Όνομσ</string>
+    <string name="edit_address_book_entry_dialog_title_add">Προσθήκη διεύθυνσης</string>
+    <string name="edit_address_book_entry_dialog_title_edit">Επεξεργασία διεύθυνσης</string>
+    <string name="exchange_rates_fragment_empty_text">Δεν ήταν δυνατή η φόρτωση των συναλλαγματικών ισοτιμιών</string>
+    <string name="help_request_coins">
+
+		&lt;p>
+			Χρησιμοποιώντας αυτό το πλαίσιο διαλόγου, μπορείτε να ζητήσετε νομίσματα από έναν άλλο χρήστη (που θα έπρεπε ήδη να εγκατασταθεί Peercoin Wallet).
+		&lt;/p>
+		&lt;p>
+			Αρχικά, εισάγετε το ζητούμενο ποσό των Peercoins.
+		&lt;/p>
+		&lt;p>
+			Στη συνέχεια, μπορείτε να ζητήσετε από τον άλλο χρήστη να σαρώσει το παραγόμενο QR κώδικα.
+			Εναλλακτικά, μπορείτε να στείλετε την αίτησή σας σε ένα χρήστη με το κουμπί \'share\' στη γραμμή δράσης.
+			Το άλλο άτομο θα πρέπει να κάνετε κλικ στη διεύθυνση URL Peercoin.
+		&lt;/p>
+		&lt;p>
+			Είτε έτσι είτε αλλιώς, στο άλλο πρόσωπο θα παρουσιαστεί ένα παράθυρο διαλόγου για την αποστολή κερμάτων με όλα τα πεδία προσυμπληρωμένα.
+			Εάν ο χρήστης αποδέχτεί, το μόνο που χρειάζεται που κάνει είναι να στείλει τη συναλλαγή.
+		&lt;/p>
+	
+	</string>
+    <string name="help_safety">
+
+		&lt;p>
+			&lt;b>Λίγα λόγια για την ασφάλεια των Peercoins σας:&lt;/b>
+		&lt;/p>
+		&lt;p>
+			α Peercoins στο το Peercoin Wallet είναι αποθηκευμένα στη συσκευή.
+			&lt;b>Αν χάσετε τη συσκευή σας, θα χάσετε τα Peercoins σας.&lt;/b>
+			Ακριβώς όπως τα χρήματα στο πραγματικό πορτοφόλι σας.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Πριν από την απεγκατάσταση του το Peercoin Wallet&lt;/b> (εκκαθάριση δεδομένα εφαρμογής), &lt;b>θα πρέπει να μεταφέρετε Peercoins σας σε άλλο λογαριασμό&lt;/b>.
+			Τυχόν υπόλοιπα Peercoins θα χαθούν.
+		&lt;/p>
+		&lt;p>
+			Οι συναλλαγές δεν μπορoούν να αναιρεθούν. Εάν στείλετε Peercoins στο κενό, δεν υπάρχει τρόπος να τα πάρουν πίσω, εκτός αν γνωρίζετε τον παραλήπτη και είναι πρόθυμος να τα στείλει πίσω.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Κρατήστε ασφαλή την Android συσκευή σας! Να εγκαταστάτε μόνο εφαρμογές που εμπιστεύεστε πλήρως. Κακόβουλες εφαρμογές θα μπορούσε να προσπαθήσουν να κλέψουν το πορτοφόλι σας.
+		&lt;/p>
+		&lt;p>
+			Κρατήστε τον κίνδυνο χαμηλά!
+			Χρησιμοποιήστε το Peercoin Wallet μόνο με μικρά ποσά για ημερήσια χρήση.
+		&lt;/p>
+	
+	</string>
+    <string name="help_send_coins">
+
+		&lt;p>
+			Έχετε ξεκινήσει τον διαδικασία αποστολής κερμάτων. Ήρθατε εδώ, είτε μέσα από την κύρια οθόνη ή κάνοντας κλικ σε ένα URL Peercoin στο browser του κινητού σας.
+		&lt;/p>
+		&lt;p>
+			Πρώτον, εισάγετε το Peercoin διεύθυνση του παραλήπτη. Η διεύθυνση θα συμπληρωθεί αυτόματα από τις υπάρχουσες καταχωρίσεις στο βιβλίο διευθύνσεών σας. Μπορείτε επίσης να σαρώσετε QR κωδικούς με διευθύνσεις Peercoin ή αιτήσεων Peercoin πατώντας το κουμπί QR στη γραμμή δράσης.
+		&lt;/p>
+		&lt;p>
+			Στη συνέχεια, μπορείτε να δείτε πόσα Peercoins μπορείτε να ξοδεψετε. Οποιαδήποτε διαφορά με το υπόλοιπο από την κύρια οθόνη είναι ακόμη ανεπιβεβαίωτη και δεν μπορεί κατά συνέπεια ακόμα να ξοδευτεί.
+		&lt;/p>
+		&lt;p>
+			Τελευταία, εισάγετε το ποσό που πρέπει να καταβληθεί.
+		&lt;/p>
+		&lt;p>
+			Μπορείτε να εισάγετε μια συναλλαγή χωρίς να είναι συνδεδεμένος. Θα σταλεί στην επόμενη επανεκκίνηση του Peercoin Wallet.
+			Αν θέλετε μια συναλλαγή να ολοκληρωθεί όσο το δυνατόν γρηγορότερα, βεβαιωθείτε ότι είστε συνδεδεμένοι (δηλαδή σε ένα WLAN).
+		&lt;/p>
+		&lt;p>
+			Σημείωση:
+			Οι συναλλαγές που δεν μπορούν να αναιρεθούν! Πάντα να ελέγχετε τον διεύθυνση του παραλήπτη.
+		&lt;/p>
+	
+	</string>
+    <string name="help_wallet">
+
+		&lt;p>
+			Στο άνω αριστερό μέρος της οθόνης εμφανίζεται η επιλεγμένη διεύθυνση Peercoin σας που άλλοι χρήστες πρέπει να ξέρουν για να σας στείλουμε Peercoins.
+			Πατήστε για να αλλάξετε τη διεύθυνση.
+		&lt;/p>
+		&lt;p>
+			Ο κώδικας QR στα δεξιά περιέχει τη διεύθυνση peercoin σας και μπορεί να χρησιμοποιηθεί για τη σάρωση από κάποιον τρίτο.
+			Πατήστε τον QR κώδικα για να πάρετε μια μεγενθυμένη εκδοχή του.
+		&lt;/p>
+		&lt;p>
+			Στη μέση της οθόνης, εμφανίζεται το υπόλοιπό σας.
+			Η αξία του πορτοφολιού σας φαίνεται επίσης σε ένα επιλεγμένα τοπικό νόμισμα.
+			Πατήστε στην ισορροπία για να εμφανιστεί λίστα με όλα τα τοπικά νομίσματα, και πατήστε σε ένα από τα νομίσματα για να το επιλέξετε ως προεπιλογή.
+		&lt;/p>
+		&lt;p>
+			Στο κάτω μέρος της οθόνης μπορείτε να δείτε τη λίστα των συναλλαγών σας, η οποία είναι κενή στην αρχή.
+			Οι εκκρεμείς συναλλαγές εμφανίζονται γκριζαρισμένες έως ότου επιβεβαιωθούν.
+			Πατήστε σε μία φόρμα για να προσθέσετε τους αποστολείς ή παραλήπτες διεύθυνση στο βιβλίο διευθύνσεων.
+			Swipe αριστερά ή δεξιά για να εφαρμόσετε ένα φίλτρο στη λίστα.
+		&lt;/p>
+		&lt;p>
+			Μπορείτε να στείλετε ή να ζητήσετε κέρματα πατώντας τα κουμπιά στη γραμμή δράση.
+			Περισσότερες επιλογές είναι διαθέσιμες στο μενού επιλογών.
+		&lt;/p>
+	
+	</string>
+    <string name="notification_coins_received_msg">Ελήφθη %s</string>
+    <string name="notification_peers_connected_msg">%d χρήστες συνδεμένοι</string>
+    <string name="request_coins_activity_title">Αίτηση για Peercoins</string>
+    <string name="request_coins_clipboard_msg">η αίτηση για Peercoin αντιγράφηκε στο clipboard</string>
+    <string name="request_coins_fragment_amount_label">Ζητούμενο ποσό (προαιρετικό)</string>
+    <string name="request_coins_fragment_initiate_request_nfc">Ή φερετε σε επαφή αν έχετε συσκευή με NFC.</string>
+    <string name="request_coins_fragment_initiate_request_qr">Δώστε αυτό το κώδικα στον αποστολέα, για να το σαρώσει.</string>
+    <string name="request_coins_share_dialog_title">request for sharing Peercoins…</string>
+    <string name="send_coins_activity_title">Αποστολή Peercoins</string>
+    <string name="send_coins_error_msg">Πρόβλημα στην αποστολή κερμάτων!</string>
+    <string name="send_coins_fragment_amount_label">Ποσό να πληρωθεί</string>
+    <string name="send_coins_fragment_button_send">Αποστολή</string>
+    <string name="send_coins_fragment_pending">(%s αναμονή για την επιβεβαίωση)</string>
+    <string name="send_coins_fragment_receiving_address_error">Άκυρα Διεύθυνση Peercoin!</string>
+    <string name="send_coins_fragment_receiving_address_hint">πληκτρολογήστε τη διεύθυνση ή το όνομα</string>
+    <string name="send_coins_fragment_receiving_address_label">Πληρωμή σε</string>
+    <string name="send_coins_sending_msg">Αποστολή…</string>
+    <string name="toast_wallet_reset">Το πορτοφόλι έχει αποκατασταθεί,\nθα πάρει κάποιο χρόνο για την ανάκτηση</string>
+    <string name="wallet_address_fragment_clipboard_msg">H Peercoin διεύθυνή αντιγράφικε στο clipboard</string>
+    <string name="wallet_disclaimer_fragment_remind_safety">Χρησιμοποιήστε με δική σας ευθύνη. Διαβάστε τις οδηγίες ασφαλείας</string>
+    <string name="wallet_low_storage_dialog_button_apps">Διαχείριση των Εφαρμογών</string>
+    <string name="wallet_low_storage_dialog_msg">Το πορτοφόλι Peercoin χρησιμοποιεί την εσωτερική μνήμη για να θυμάται τις συναλλαγές και τα μπλοκ. Αν ξεμείνει από
+χώρο, θα σταματήσει να λειτουργεί και τα Peercoins σας θα είναι σε κίνδυνο! \n\nΘέλετε να ανοίξετε τη Διαχείριση εφαρμογών, προκειμένου να
+απεγκατάσταση αχρείαστες εφαρμογές;</string>
+    <string name="wallet_low_storage_dialog_title">Η εσωτερική μνήμη της συσκευής είναι χαμηλή!</string>
+    <string name="wallet_options_donate">Δωρίστε</string>
+    <string name="wallet_options_safety">Οδηγίες ασφαλείας</string>
+    <string name="wallet_transactions_fragment_empty_text_received">Δεν έχει ληφθεί κάποιο Peercoin μέχρι στιγμής</string>
+    <string name="wallet_transactions_fragment_empty_text_sent">Δεν έχει ληφθεί σταλεί Peercoin μέχρι στιγμής</string>
+    <string name="wallet_transactions_fragment_tab_all">Και τα δύο</string>
+    <string name="wallet_transactions_fragment_tab_received">Ελήφθη</string>
+    <string name="wallet_transactions_fragment_tab_sent">Εστάλη</string>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/raw/send_coins_broadcast_2.wav",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/raw/send_coins_broadcast_2.wav"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/raw/coins_received.wav",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/raw/coins_received.wav"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/raw/send_coins_broadcast_3.wav",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/raw/send_coins_broadcast_3.wav"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/raw/send_coins_broadcast_1.wav",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/raw/send_coins_broadcast_1.wav"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/raw/send_coins_broadcast_4.wav",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/raw/send_coins_broadcast_4.wav"
+    }
+]

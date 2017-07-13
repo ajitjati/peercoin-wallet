@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.matthewmitchell.peercoin_android_wallet"
+        minSdkVersion 15
+        targetSdkVersion 16
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+}
+// only needed for SNAPSHOT builds
+repositories {
+    maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
+}
+
+dependencies {
+    compile 'com.android.support:multidex:1.0.0'
+    compile 'org.jetbrains:annotations-java5:15.0'
+    compile files('libs/zxing-2.1.jar')
+    compile files('libs/peercoinj-0.13.0.jar')
+    compile files('libs/peercoinj-tools-0.13.0.jar')
+
+    compile 'com.android.support:support-v4:26.0.0-alpha1'
+    compile 'org.slf4j:slf4j-api:1.7.21'
+    compile 'com.github.tony19:logback-android-core:1.1.1-6'
+    compile('com.github.tony19:logback-android-classic:1.1.1-6') {
+        // workaround issue #73
+        exclude group: 'com.google.android', module: 'android'
+    }
+    // https://mvnrepository.com/artifact/org.apache.commons/commons-lang3
+    compile files('libs/common-lang3.jar')
+    compile 'com.android.support:support-v13:26.0.0-alpha1'
+    compile files('libs/lcrypto-jdk15.jar')
+}

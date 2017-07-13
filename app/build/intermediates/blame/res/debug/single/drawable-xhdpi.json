@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/dropdown_ic_arrow_small_pressed_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/dropdown_ic_arrow_small_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_nbt.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_nbt.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_dark_bg_pressed.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_dark_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_inner_focused_c.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_inner_focused_c.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_input_delete.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_input_delete.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_mppc_widget.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_mppc_widget.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_btc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_btc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/app_icon.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_qr.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_qr.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_inner_pressed_r.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_inner_pressed_r.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_nvc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_nvc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_mint.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_mint.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_pot.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_pot.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_dark_bg_focused.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_dark_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_uppc_widget.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_uppc_widget.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_ppc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_ppc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_inner_focused_r.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_inner_focused_r.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_delete.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_inner_focused_l.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_inner_focused_l.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_clear.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_clear.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_ltc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_ltc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_send.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_send.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_doge.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_doge.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_rdd.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_rdd.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_blk.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_blk.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_paste.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_uppc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_uppc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_nmc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_nmc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_camera.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_camera.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_labels.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_labels.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/dropdown_ic_arrow_small_focused_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/dropdown_ic_arrow_small_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_receive.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_receive.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_copy_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_menu_copy_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/stat_notify_received.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/stat_notify_received.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_mppc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_mppc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_paste_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_menu_paste_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_inner_pressed_c.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_inner_pressed_c.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_edit.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_set_as_default.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_set_as_default.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_dark_bg.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_dark_bg.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/dropdown_ic_arrow_small_normal_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/dropdown_ic_arrow_small_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_inner_pressed_l.9.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/appwidget_inner_pressed_l.9.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_xcp.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_xcp.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_share.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_copy.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_refresh.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_warning.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_menu_warning.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_ppc_widget.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_ppc_widget.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_dash.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_dash.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_vrc.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_vrc.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_cut_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_menu_cut_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/widget_preview.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/widget_preview.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_selectall_holo_light.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/ic_menu_selectall_holo_light.png"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable-xhdpi/currency_symbol_dgb.png",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable-xhdpi/currency_symbol_dgb.png"
+    }
+]

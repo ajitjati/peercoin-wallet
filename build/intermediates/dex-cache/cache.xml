@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/libs/peercoinj-tools-0.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02ae543cc6ca0eab9b08889e20231d7362099c57">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/peercoinj-tools-0.13.0_f7b04c749df8a65e35442156f85cfb74049254ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/annotations-java5-15.0_f0a1e37cabdbee9d5c34911798c4e02decd71030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_5856a6bd0852c70a268d061303de8841560b0b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/libs/zxing-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/zxing-2.1_2000348e9ba17471a859bb2a64c4a586148d0994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.21_b5946e28a44cc2f7055618cdefd0f9595488563d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-6/614c66c9ece69eef48c65a8558de4fd7266d9f69/logback-android-classic-1.1.1-6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614c66c9ece69eef48c65a8558de4fd7266d9f69">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/logback-android-classic-1.1.1-6_f810b1b3823cfe56c2d02ebfbe71ad386217e992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_ca53772bfc629dac5bbc65bf5ea67d6e26fc65da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/libs/lcrypto-jdk15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4265929f41f74005e90802bb8a38052bfb8df6ca">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/lcrypto-jdk15_4bddc467f54cac6278aad868ba9b536d45e02419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/libs/peercoinj-0.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7da1c22a3d3cadd231f4110de5abcfcda378c2a">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/peercoinj-0.13.0_0c5c17a2fc9730b9344662ac6fb3d5f0e1588828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_66d8eeeb9c8e769f006531fe5b98eca6e237cb34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-v13/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62f733cc92b1611138da965697f4654cd385e078">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-26.0.0-alpha1_243419af429d6125b5ca63646d7ca17b2248d407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_f2a73679196dace068d2101bffb0d1dcdd0b5267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_1010388670c129a5e29b59cadd9db26c7b0dcec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_8bba25b0b7970badfe038c8bfd46a4c049876b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-6/93117015ae639e6482e4e1ad5f988c3f61d09fe0/logback-android-core-1.1.1-6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93117015ae639e6482e4e1ad5f988c3f61d09fe0">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/logback-android-core-1.1.1-6_67b3b39cb910af389f43196c2784bb66a6425f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_d1ac34f2970c297b72b59981e78b06c271cc54f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/libs/common-lang3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/common-lang3_3c4831fe6e596eabbd170d753f436dffc0bb963b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/apktool-lib-1.4.4-3_06bea508179eb92bcf20d891aaf453f32c08d13a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/projects/wallet/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/Admin/Documents/projects/wallet/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.0_273825c88cc8542c214b34ac6704ae8b243b924f.jar" />
+    </item>
+
+</items>

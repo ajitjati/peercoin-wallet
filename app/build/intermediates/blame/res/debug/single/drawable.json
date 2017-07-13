@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/stat_sys_peers.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/stat_sys_peers.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/dropdown_ic_arrow_small.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/dropdown_ic_arrow_small.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/appwidget_button_right.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/appwidget_button_right.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/button_bar_background.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/button_bar_background.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/divider_currency.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/divider_currency.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/action_bar_background.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/action_bar_background.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/divider_field.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/divider_field.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/divider_dark.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/divider_dark.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/action_mode_background.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/action_mode_background.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/appwidget_dark_bg_clickable.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/appwidget_dark_bg_clickable.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/qrcode_frame.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/qrcode_frame.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/appwidget_button_left.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/appwidget_button_left.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/appwidget_button_center.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/appwidget_button_center.xml"
+    },
+    {
+        "merged": "/Users/Admin/Documents/projects/wallet/app/build/intermediates/res/merged/debug/drawable/appwidget_divider.xml",
+        "source": "/Users/Admin/Documents/projects/wallet/app/src/main/res/drawable/appwidget_divider.xml"
+    }
+]
